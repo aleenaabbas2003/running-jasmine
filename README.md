@@ -30,18 +30,18 @@ The first time you launch the newly installed WSL Linux distribution, a console 
    - Select `WSL` from the list.
 
 ### **Installing NVM in WSL**
-
-1. **Run the Installation Command**:
+I used the following link to install nvm: https://github.com/nvm-sh/nvm
+1. Run the Installation Command:
    - Open your WSL terminal.
    - Run the following command to install NVM:
      ```bash
      curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
      ```
 
-2. **Close and Reopen the Terminal**:
+2. Close and Reopen the Terminal:
    - Close your WSL terminal and open a new one to apply the changes.
 
-3. **Verify NVM Installation**:
+3. Verify NVM Installation:
    - In the new terminal, run:
      ```bash
      command -v nvm
