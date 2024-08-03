@@ -1,6 +1,6 @@
 ### **Setting Up WSL2**:
 
-To set up WSL2, you need to be running Windows 10 version 2004 or higher (Build 19041 or higher) or Windows 11. If you are using an older version, check this webpage or refer to the guide for Docker Toolbox in section 2.1.2.
+To set up WSL2, you need to be running Windows 10 version 2004 or higher (Build 19041 or higher) or Windows 11.
 
 1. Open Command Prompt as Administrator:
    - Right-click on 'Command Prompt' and select 'Run as administrator' to launch it.
